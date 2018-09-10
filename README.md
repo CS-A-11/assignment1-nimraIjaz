@@ -8,3 +8,5 @@ It was fun working on this and looking forward to add styling and designing to t
 You can check the repository containing HTML file at https://github.com/nimraIjaz/nimraIjaz.github.io.git
 
 Styling was pretty tough as it was my first experience with CSS but https://bootswatch.com was really helpful. I got the layout from this site. not completely but partially. 
+
+Enjoy the background music!
